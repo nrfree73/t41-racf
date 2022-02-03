@@ -1,0 +1,15 @@
+[Navigateur]
+Defaut=Firefox
+New=tab
+
+------------------------------
+ Choix navigateur par defaut:
+------------------------------
+Edge: 		Defaut=Edge
+Firefox:	Defaut=Firefox
+chrome:		Defaut=Chrome
+ie:			Defaut=IE
+
+nouvel onglet ou nouvelle fenetre ?
+onglet:		New=tab
+fenetre:	New=windows
